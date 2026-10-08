@@ -1,1 +1,1 @@
-# jharyll-programmer-profile
+# Jharyll Fuertes — Programmer Profile\n\nFrontend-only programmer profile built with Next.js and CSS.\n\nSections: Home, About, Education, Projects, Contact.\n
